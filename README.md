@@ -1,9 +1,7 @@
 # Sentence-Reversal-Patterns-in-Java
 ___
 
-## Strings – Sentence Reversal Patterns in Java
-
-##**Problem**
+## Problem
 
 You're building a text processing utility for a secure communication tool that encrypts messages by manipulating the structure of input sentences. To understand how different string manipulation methods affect readability and recovery, you're asked to implement a program that performs three distinct reverse transformations on an input sentence.
 
